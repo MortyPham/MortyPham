@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MortyPham
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Electrical and Electronics Engineering and Machine Learning / Artificial Intelligence
+- 🌱 I’m currently learning Digital Circuit Design and Sound Processing.
 
 <!---
 MortyPham/MortyPham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
